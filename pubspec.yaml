@@ -1,8 +1,8 @@
 name: shared_preferences_hhz
 description: Flutter plugin for reading and writing simple key-value pairs.
   Wraps NSUserDefaults on iOS and SharedPreferences on Android.
-repository: https://github.com/flutter/plugins/tree/master/packages/shared_preferences/shared_preferences
-issue_tracker: https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen+label%3A%22p%3A+shared_preferences%22
+repository: https://github.com/liaopen123/shared_preferences_hhz
+issue_tracker: https://github.com/liaopen123/shared_preferences_hhz
 version: 2.0.8
 
 environment:

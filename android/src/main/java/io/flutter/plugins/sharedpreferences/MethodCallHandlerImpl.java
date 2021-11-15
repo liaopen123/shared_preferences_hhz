@@ -34,12 +34,12 @@ import java.util.concurrent.TimeUnit;
 @SuppressWarnings("unchecked")
 class MethodCallHandlerImpl implements MethodChannel.MethodCallHandler {
 
-  private static final String SHARED_PREFERENCES_NAME = "FlutterSharedPreferences";
+  private static final String SHARED_PREFERENCES_NAME = "hzhu";
 
   // Fun fact: The following is a base64 encoding of the string "This is the prefix for a list."
-  private static final String LIST_IDENTIFIER = "VGhpcyBpcyB0aGUgcHJlZml4IGZvciBhIGxpc3Qu";
-  private static final String BIG_INTEGER_PREFIX = "VGhpcyBpcyB0aGUgcHJlZml4IGZvciBCaWdJbnRlZ2Vy";
-  private static final String DOUBLE_PREFIX = "VGhpcyBpcyB0aGUgcHJlZml4IGZvciBEb3VibGUu";
+  private static final String LIST_IDENTIFIER = "";
+  private static final String BIG_INTEGER_PREFIX = "";
+  private static final String DOUBLE_PREFIX = "";
 
   private final android.content.SharedPreferences preferences;
 
