@@ -3,7 +3,7 @@ description: Flutter plugin for reading and writing simple key-value pairs.
   Wraps NSUserDefaults on iOS and SharedPreferences on Android.
 repository: https://github.com/liaopen123/shared_preferences_hhz
 issue_tracker: https://github.com/liaopen123/shared_preferences_hhz
-version: 2.0.10
+version: 2.0.11
 
 environment:
   sdk: ">=2.14.0 <3.0.0"
