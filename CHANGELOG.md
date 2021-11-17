@@ -2,7 +2,11 @@
 
 * Fixes newly enabled analyzer options.
 
-## 2.0.8
+## 2.0.10
+
+* 修改版本号
+
+## 2.0.9
 
 * 删除对prefix的校验
 
