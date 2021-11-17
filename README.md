@@ -1,6 +1,6 @@
 # Shared preferences plugin
 
-[![pub package](https://img.shields.io/pub/v/shared_preferences.svg)](https://pub.dev/packages/shared_preferences_hhz)
+[![pub package](https://img.shields.io/pub/v/shared_preferences_hhz.svg)](https://pub.dev/packages/shared_preferences_hhz)
 
 Wraps platform-specific persistent storage for simple data
 (NSUserDefaults on iOS and macOS, SharedPreferences on Android, etc.). Data may be persisted to disk asynchronously,
