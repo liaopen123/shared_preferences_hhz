@@ -2,6 +2,12 @@
 
 * Fixes newly enabled analyzer options.
 
+## 2.0.12
+
+* 删除本地取值的错
+## 2.0.11
+
+* 删除dart文件中的flutter prefix
 ## 2.0.10
 
 * 修改版本号
